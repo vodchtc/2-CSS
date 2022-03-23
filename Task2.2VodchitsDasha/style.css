@@ -1,0 +1,16 @@
+body {
+    background-image: url(images/back.png);
+    background-size: cover;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+    width: 40%;
+    padding-left: 30px;
+}
+
+h2 {
+    background-image: linear-gradient(to top, brown, rgba(165, 42, 42, 0.055));
+    padding: 10px;
+}
