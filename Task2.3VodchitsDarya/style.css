@@ -19,10 +19,7 @@ div {
     border-radius: 20px 0 20px 0;
     border-width: 3px;
     padding: 0 30px 50px 30px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-bottom: 50px;
 }
 
 h2 {
@@ -31,7 +28,7 @@ h2 {
     text-align: center;
 }
 
-div p {
+p {
     text-align: left;
 }
 
